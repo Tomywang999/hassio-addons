@@ -1,9 +1,9 @@
 ---
 version: 1.2.0
-slug: porcupine1
-name: porcupine1
-description: porcupine1 using the Wyoming protocol
-url: https://github.com/rhasspy/hassio-addons/tree/master/porcupine1
+slug: porcupine1-withcn
+name: porcupine1withcn
+description: porcupine1 using the Wyoming protocol with cn support
+url: https://github.com/Tomywang999/hassio-addons/tree/master/porcupine1
 arch:
   - amd64
   - aarch64
