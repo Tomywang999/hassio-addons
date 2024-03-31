@@ -1,5 +1,5 @@
 {
-  "name": "Rhasspy Hass.IO Add-Ons",
-  "url": "https://github.com/rhasspy/hassio-addons",
-  "maintainer": "Michael Hansen <mike@rhasspy.org>"
+  "name": "Fork of Rhasspy Hass.IO Add-Ons",
+  "url": "https://github.com/Tomywang999/hassio-addons",
+  "maintainer": "Tomy Wang <tomywang@dijun.cc>"
 }
